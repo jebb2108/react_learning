@@ -1,3 +1,4 @@
+import "../app/globals.css"
 import {Game} from '../components/game/game';
 
 export default function HomePage(){
